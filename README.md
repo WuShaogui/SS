@@ -22,6 +22,7 @@ Note:Here the  tensorflow  uses a version with GPU acceleration. If you want to 
 
 
 # Data preprocessing
+`Data preprocessing` folder is all scripts that we have preprocessed for data.It contains the following steps:
 
 (1)**Get Featrues:** Use script `1.Getfeatrue.ipynb` to get the properties of each amino acid and PSMM matrix features.
 
