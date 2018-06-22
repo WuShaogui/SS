@@ -39,7 +39,7 @@ Note: The file `AaminoAcid` is a table of amino acid properties. You can find it
 
 # Loading model
 
-The  compressed package **xx** is a model we have trained. When loading the  model, you need to copy the file AttentionDecoder.py to ` /usr/local/lib/python3.5/dist-packages/keras/layers` and then add the following code to the `__init__.py` file in this directory.
+The `models` folder is all model we have trained. When loading the  model, you need to copy the file AttentionDecoder.py to ` /usr/local/lib/python3.5/dist-packages/keras/layers` and then add the following code to the `__init__.py` file in this directory.
 
 ```python
 from .AttentionDecoder import AttentionDecoder
