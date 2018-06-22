@@ -1,7 +1,5 @@
-# SS
+# Attention-based deep learning for accurate prediction of protein secondary structures
 Protein secondary structure prediction based on attention model
-
-Paper:Attention-based deep learning for accurate prediction of protein secondary structures
 
 # Operating environment
 
